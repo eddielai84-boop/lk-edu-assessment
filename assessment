@@ -1618,7 +1618,7 @@
   // 请将您在 Google Apps Script 部署后获得的 Web App URL 粘贴在下方引号内：
   // 例如: const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbx.../exec';
   // ============================================================================
-  const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzABARF2h-1nUEl33oOmwcOT1kQhdZsxqVGyTE2uvajiFlQ7aJ7EEIdD4PMvfh7obma/exec';
+  const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxG35Hjb6J_e7mWFK7JLBpmf1aN-x8IsDgue4RSeTdVdypSwrxXc5O3texGt779WRddKw/exec';
 
   const state = {
     gradeLevel: 'std1_3',
